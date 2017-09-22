@@ -25,7 +25,9 @@ for i in range(1, 39):
             course_number_element = course_logistics_element.find('h4')
     
             book_list_header = course_logistics_element.find_next_sibling().get_text()
-            if book_list_header != 'Book List' and book_list_header != 'Other Readings and Media':
+            # if book_list_header != 'Book List' and book_list_header != 'Other Readings and Media':
+            # issues with inconsistent book list formatting from previous years.
+            if book_list_header != 'Book List':
                 continue
     
             book_list_element = course_logistics_element.find_next_sibling().find_next_sibling()
