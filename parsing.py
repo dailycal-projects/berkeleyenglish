@@ -49,9 +49,15 @@ for author in grouped.column("AUTHOR"):
         gender.append(seen[author])
         continue
     try:
-        results = wiki.find(author)
-        wikipedia_page = wiki.get_article(results[0]).url
-        # wikipedia_page = google_search(author + ' site: en.wikipedia.org', num=1).link
+        try:
+            results = wiki.find(author)
+            wikipedia_page = wiki.get_article(results[0]).url
+        except:
+            # errors when article is not found; use google search instead
+            # we try to limit number of google search queries because
+            # google limits them for free accounts or something
+            wikipedia_page = google_search(author + ' site: en.wikipedia.org', num=1).link
+
         g = find_gender(wikipedia_page)
         gender.append(g)
         seen[author.lower()] = g
