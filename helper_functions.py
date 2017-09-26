@@ -9,8 +9,8 @@ def google_search(search_term, **kwargs):
     Source here: 
     https://stackoverflow.com/questions/37083058/programmatically-searching-google-in-python-using-custom-search
     """
-    service = build("customsearch", "v1", developerKey=my_api_key)
-    res = service.cse().list(q=search_term, cx=my_cse_id, **kwargs).execute()
+    service = build("customsearch", "v1", developerKey=API_KEY)
+    res = service.cse().list(q=search_term, cx=CSE_ID, **kwargs).execute()
     return res['items']
 
 def find_gender(url):
@@ -22,18 +22,26 @@ def find_gender(url):
     p_tag = soup.find('p')
 
     number_male, number_female, number_other = 0, 0, 0
-    while p_tag.name == 'p':
-        content = p_tag.get_text().lower()
-        content.maketrans('', '', string.punctuation)
-        words = content.split()
-        number_male += words.count("he") + words.count("him") + words.count("his")
-        number_female += words.count("she") + words.count("her") + words.count("hers")
-        number_other += words.count("they") + words.count("theirs") + words.count("them")
-        p_tag = p_tag.next_sibling.next_sibling # wikipedia puts \n as the next sibling,
-        # so find the one after that.
+    try:
+        while p_tag.name == 'p':
+            content = p_tag.get_text().lower()
+            content.maketrans('', '', string.punctuation)
+            words = content.split()
+            number_male += (words.count("he") + 
+                            words.count("him") + words.count("his"))
+            number_female += (words.count("she") + 
+                            words.count("her") + words.count("hers"))
+            number_other += (words.count("they") + 
+                            words.count("theirs") + words.count("them"))
+            p_tag = p_tag.next_sibling.next_sibling 
+            # wikipedia puts \n as the next sibling, so find the one after that
+    except Exception:
+        pass
 
     maximum = max(number_male, number_female, number_other)
-    if maximum == number_male and maximum != number_female: 
+    if maximum == 0: # no information was collected
+        return 'UNDETERMINED'
+    elif maximum == number_male and maximum != number_female: 
         return 'male'
     elif maximum == number_female and maximum != number_male:
         return 'female'
@@ -48,6 +56,6 @@ def open_url(url):
     return soup
 
 # CONSTANTS
-my_api_key = "AIzaSyAeg1Eq9YPMrlktNkdwIzkOm7lFj1XPilk"
-my_cse_id = "013182980831658096104:b_duphwes6c"
+API_KEY = "AIzaSyAeg1Eq9YPMrlktNkdwIzkOm7lFj1XPilk"
+CSE_ID = "013182980831658096104:b_duphwes6c"
 
