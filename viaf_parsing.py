@@ -11,17 +11,24 @@ def find_author(author_name):
         return author_url
 
     except Exception:
+        print("Could not find", author_name)
         return None
 
 def author_gender(author_url):
-    response = requests.get(author_url)
-    soup = BeautifulSoup(response.content, "html.parser")
-    personal_info = soup.find(id='personalinfo')
-    text = personal_info.find('h4').get_text().lower().split()
-    if 'female' in text:
-        return 'female'
-    elif 'male' in text:
-        return 'male'
-    else:
-        return 'unknown'
+    if author_url:
+        try:
+            response = requests.get(author_url)
+            soup = BeautifulSoup(response.content, "html.parser")
+            personal_info = soup.find(id='personalinfo')
+            text = personal_info.find('h4').get_text().lower().split()
+            if 'female' in text:
+                return 'female'
+            elif 'male' in text:
+                return 'male'
+            else:
+                return 'unknown'
+        except Exception:
+            return 'unknown'
+
+    return 'Could not find author'
 
