@@ -11,6 +11,7 @@ def find_author(author_name):
         return author_url
 
     except Exception:
+        print(Exception, "at find_author")
         print("Could not find", author_name)
         return None
 
@@ -28,7 +29,9 @@ def author_gender(author_url):
             else:
                 return 'unknown'
         except Exception:
+            print(Exception)
             return 'unknown'
 
-    return 'Could not find author'
+    else: 
+        return 'Could not find author'
 

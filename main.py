@@ -17,16 +17,18 @@ for row in reader:
     if author:
         row[4] = ''.join(author)
 
-    if author and len(author) == 1:
-        author = author[0]
-        if author in seen:
-            gender = seen[author]
+        if len(author) == 1:
+            author = author[0]
+            if author in seen:
+                gender = seen[author]
+            else:
+                gender = viaf_parsing.author_gender(
+                        viaf_parsing.find_author(author[0]))
+                seen[author] = gender
         else:
-            gender = viaf_parsing.author_gender(
-                    viaf_parsing.find_author(author[0]))
-            seen[author] = gender
+            gender = "Multiple Authors"
     else:
-        gender = "Multiple Authors"
+        gender = "Could not find author"
 
     row.append(gender)
     writer.writerow(row)

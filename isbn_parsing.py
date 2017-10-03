@@ -4,10 +4,14 @@ from bs4 import BeautifulSoup
 
 list_of_rows = []
 
-def find(book_name):
+def find(book_name, author_name=None):
     try:
         book_name = book_name.lower().replace(' ', '+')
-        url = 'https://www.googleapis.com/books/v1/volumes?q=' + book_name
+        if author_name:
+            url = 'https://www.googleapis.com/books/v1/volumes?q=' + book_name + \
+                    '+inauthor:' + author_name
+        else:
+            url = 'https://www.googleapis.com/books/v1/volumes?q=' + book_name
         response = requests.get(url)
         html = response.content
         soup = BeautifulSoup(html, "html.parser")
