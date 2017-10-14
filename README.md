@@ -1,6 +1,6 @@
 # berkeleyenglish
 
-###Files:
+### Files:
 
 scrape.py - Scrapes data off UC Berkeley's English Department website, which contains a list of required readings for each semester's English classes. Puts data in books.csv
 
