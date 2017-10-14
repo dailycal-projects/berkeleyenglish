@@ -1,13 +1,14 @@
 import csv
 from pathlib import Path
 
+### COMPILING CLASS DATA BY SECTION FROM GRADING SPREADSHEET
 files = ['class_data/grades_f' + str(y) + '.csv' for y in range(2012, 2017)]
 files.extend(['class_data/grades_s' + str(y) + '.csv' for y in range(2012, 2018)])
 
 combined = csv.writer(open('all_enrollment_numbers.csv', 'w'))
 combined.writerow(['Semester', 'Course', 'Section', 'Enrollment'])
 
-count = {} # dictionary of {'Fall/SpringYearr_ English Course_Sec#': # enrolled }
+count = {} # dictionary of {'Fall/SpringYear_ English Course_Sec#': # enrolled }
 for f in files:
     year = 'Fall ' + f[-8:-4] if f[-9] == 'f' else 'Spring ' + f[-8:-4]
     print(year)
@@ -27,9 +28,25 @@ for f in files:
         if key not in count:
             count[key] = 0
         count[key] += int(row[1])
-    
-    for k in count.keys():
-        combined.writerow(k.split('_') + [count[k]])
+
+for k in count.keys():
+    combined.writerow(k.split('_') + [count[k]])
+
+
+### ADDING TO BOOKS_ADDITIONAL.CSV
+reader = csv.reader(open('books_additional.csv', 'r', errors='ignore'))
+writer = csv.writer(open('new_books_additional.csv', 'w'))
+
+# title row
+writer.writerow(['Semester', 'Class', 'Class Number', 'Section Number', 'Title', 'Author(s)', 'Gender', 'Number Students'])
+
+for row in reader:
+    key = row[0] + '_' + row[2] + '_'+ row[3]
+    try:
+        row.append(count[key])
+    except KeyError:
+        pass
+    writer.writerow(row)
 
 
         
