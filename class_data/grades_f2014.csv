@@ -1,0 +1,558 @@
+﻿Grade Sort Nbr,Enrollment Cnt,% Grades Receivedof Enrollment,Letter Grd Cnt,Course Control Nbr,Instructor Name,Average Grade,Course Subject Short Nm,Course Number,Section Nbr,Grade Subtype Desc,Grade Type Desc,Grade Nm,Course Title Nm
+1,1,,,27806,Kevis Bea Goodman; Sookyoung Lee,,English,R1A,002,A,Letter Grade,A+,Reading And Comp
+1,1,,,27842,Kevis Bea Goodman; Ryan Mcwilliams,,English,R1B,004,A,Letter Grade,A+,Reading And Comp
+1,4,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,A,Letter Grade,A+,Reading And Comp
+1,1,,,27851,Gillian Osborne; Kevis Bea Goodman,,English,R1B,007,A,Letter Grade,A+,Reading And Comp
+1,1,,,27852,Catherine Browning,,English,R1B,008,A,Letter Grade,A+,Reading And Comp
+1,2,,,27856,Anne-Lise Francois,,English,26,002,A,Letter Grade,A+,Intro To Poetry
+1,1,,,27881,Emily Thornbury,,English,45A,002,A,Letter Grade,A+,Lit In English
+1,1,,,28028,Charles Altieri,,English,117S,001,A,Letter Grade,A+,Shakespeare
+1,8,,,28073,Mitchell Breitwieser,,English,130B,001,A,Letter Grade,A+,Amer Lit: 1800-1865
+1,1,,,28079,Abdul Janmohamed,,English,133B,001,A,Letter Grade,A+,Af Am Since 1917
+1,4,,,28109,Poulomi Saha,,English,138,001,A,Letter Grade,A+,Stud Wor Lit Eng
+1,1,,,28127,John Shoptaw,,English,143B,002,A,Letter Grade,A+,Verse
+1,6,,,28130,Charles Roberson,,English,143B,003,A,Letter Grade,A+,Verse
+1,1,,,28142,John Campion,,English,165,001,A,Letter Grade,A+,Special Topics
+1,3,,,28154,Hertha Wong,,English,165,005,A,Letter Grade,A+,Special Topics
+1,1,,,28166,Carla Serpell,,English,166,003,A,Letter Grade,A+,Special Topics
+1,2,,,28190,Kathleen Donegan,,English,190,001,A,Letter Grade,A+,Research Seminar
+1,2,,,28211,Stephen Best,,English,190,008,A,Letter Grade,A+,Research Seminar
+1,2,,,28214,Eric Falci,,English,190,009,A,Letter Grade,A+,Research Seminar
+1,1,,,28223,Lyn Hejinian,,English,190,012,A,Letter Grade,A+,Research Seminar
+1,1,,,28742,Catherine Browning,,English,R1B,009,A,Letter Grade,A+,Reading And Comp
+2,3,,,27803,Evan Klavon; Kevis Bea Goodman,,English,R1A,001,A,Letter Grade,A,Reading And Comp
+2,6,,,27806,Kevis Bea Goodman; Sookyoung Lee,,English,R1A,002,A,Letter Grade,A,Reading And Comp
+2,1,,,27812,Kevis Bea Goodman; Spencer Strub,,English,R1A,004,A,Letter Grade,A,Reading And Comp
+2,2,,,27815,Jose Villagrana; Kevis Bea Goodman,,English,R1A,005,A,Letter Grade,A,Reading And Comp
+2,3,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,A,Letter Grade,A,Reading And Comp
+2,1,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,A,Letter Grade,A,Reading And Comp
+2,6,,,27824,Esther Yu; Kevis Bea Goodman,,English,R1A,008,A,Letter Grade,A,Reading And Comp
+2,6,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,A,Letter Grade,A,Reading And Comp
+2,10,,,27830,Kevis Bea Goodman; Matthew Ramirez,,English,R1A,010,A,Letter Grade,A,Reading And Comp
+2,2,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,A,Letter Grade,A,Reading And Comp
+2,1,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,A,Letter Grade,A,Reading And Comp
+2,2,,,27839,Amy Lee; Kevis Bea Goodman,,English,R1B,003,A,Letter Grade,A,Reading And Comp
+2,6,,,27842,Kevis Bea Goodman; Ryan Mcwilliams,,English,R1B,004,A,Letter Grade,A,Reading And Comp
+2,3,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,A,Letter Grade,A,Reading And Comp
+2,5,,,27848,Katherine Ding; Kevis Bea Goodman,,English,R1B,006,A,Letter Grade,A,Reading And Comp
+2,6,,,27851,Gillian Osborne; Kevis Bea Goodman,,English,R1B,007,A,Letter Grade,A,Reading And Comp
+2,5,,,27852,Catherine Browning,,English,R1B,008,A,Letter Grade,A,Reading And Comp
+2,3,,,27854,Nilofar Gardezi,,English,26,001,A,Letter Grade,A,Intro To Poetry
+2,7,,,27856,Anne-Lise Francois,,English,26,002,A,Letter Grade,A,Intro To Poetry
+2,7,,,27860,Joseph Lavery,,English,28,001,A,Letter Grade,A,Intro To Drama
+2,17,,,27863,Nadia Ellis Russell,,English,31AC,001,A,Letter Grade,A,Lit Amer Cultures
+2,8,,,27866,Vikram Chandra,,English,43A,001,A,Letter Grade,A,Intro/Writ Fiction
+2,11,,,27869,Jeffrey Knapp,,English,45A,001,A,Letter Grade,A,Lit In English
+2,6,,,27881,Emily Thornbury,,English,45A,002,A,Letter Grade,A,Lit In English
+2,24,,,27890,Janet Sorensen,,English,45B,001,A,Letter Grade,A,Lit In English
+2,2,,,27902,Celeste Langan,,English,45B,002,A,Letter Grade,A,Lit In English
+2,21,,,27911,Steven Lee,,English,45C,001,A,Letter Grade,A,Lit In English
+2,8,,,27923,Mark Goble,,English,45C,002,A,Letter Grade,A,Lit In English
+2,9,,,27935,Garrison Sposito; Robert Hass,,English,C77,001,A,Letter Grade,A,Int Environ Studies
+2,10,,,28019,Emily Thornbury,,English,104,001,A,Letter Grade,A,Intro To Old Engl
+2,5,,,28022,David Marno,,English,115A,001,A,Letter Grade,A,Eng Renaissance
+2,3,,,28025,Victoria Kahn,,English,115B,001,A,Letter Grade,A,Eng Renaissance
+2,7,,,28028,Charles Altieri,,English,117S,001,A,Letter Grade,A,Shakespeare
+2,7,,,28031,Oliver Arnold,,English,117S,002,A,Letter Grade,A,Shakespeare
+2,2,,,28046,James Turner,,English,119,001,A,Letter Grade,A,Lit Rest & Ear 18 C
+2,2,,,28049,Donna Jones,,English,125D,001,A,Letter Grade,A,20th Century Novel
+2,14,,,28052,Charles Blanton,,English,126,001,A,Letter Grade,A,British Lit/1900-45
+2,8,,,28067,Charles Altieri,,English,127,001,A,Letter Grade,A,Modern Poetry
+2,6,,,28070,Samuel Otter,,English,130A,001,A,Letter Grade,A,Am Lit: Before 1800
+2,14,,,28073,Mitchell Breitwieser,,English,130B,001,A,Letter Grade,A,Amer Lit: 1800-1865
+2,1,,,28076,Stephen Best,,English,133A,001,A,Letter Grade,A,Af Am Before 1917
+2,5,,,28079,Abdul Janmohamed,,English,133B,001,A,Letter Grade,A,Af Am Since 1917
+2,2,,,28082,Abdul Janmohamed,,English,133T,001,A,Letter Grade,A,Topics Af Am
+2,30,,,28091,Bryan Wagner,,English,135AC,001,A,Letter Grade,A,Lit Amer Cultures
+2,11,,,28106,Richard Hutson,,English,C136,001,A,Letter Grade,A,American Studies
+2,4,,,28109,Poulomi Saha,,English,138,001,A,Letter Grade,A,Stud Wor Lit Eng
+2,29,,,28112,Melanie Chandra,,English,141,001,A,Letter Grade,A,Modes Of Writing
+2,14,,,28115,Robert Hass,,English,141,002,A,Letter Grade,A,Modes Of Writing
+2,10,,,28118,Vikram Chandra,,English,143A,001,A,Letter Grade,A,Short Fiction
+2,7,,,28121,Kirsten Tranter,,English,143A,002,A,Letter Grade,A,Short Fiction
+2,7,,,28124,Cecil Giscombe,,English,143B,001,A,Letter Grade,A,Verse
+2,7,,,28127,John Shoptaw,,English,143B,002,A,Letter Grade,A,Verse
+2,11,,,28133,Georgina Kleege,,English,143N,001,A,Letter Grade,A,Prose Nonfiction
+2,10,,,28136,Donald Mcquade,,English,143N,002,A,Letter Grade,A,Prose Nonfiction
+2,8,,,28139,Dorothy Hale,,English,161,001,A,Letter Grade,A,Int To Lit Theory
+2,7,,,28142,John Campion,,English,165,001,A,Letter Grade,A,Special Topics
+2,1,,,28145,Colleen Lye,,English,165,002,A,Letter Grade,A,Special Topics
+2,6,,,28148,John Campion,,English,165,003,A,Letter Grade,A,Special Topics
+2,10,,,28154,Hertha Wong,,English,165,005,A,Letter Grade,A,Special Topics
+2,1,,,28157,Geoffrey O'Brien,,English,165,006,A,Letter Grade,A,Special Topics
+2,2,,,28163,David Montejano; Genaro Padilla,,English,166,002,A,Letter Grade,A,Special Topics
+2,7,,,28166,Carla Serpell,,English,166,003,A,Letter Grade,A,Special Topics
+2,5,,,28168,Poulomi Saha,,English,166,004,A,Letter Grade,A,Special Topics
+2,6,,,28169,Elizabeth Abel,,English,171,001,A,Letter Grade,A,Lit And Sexual Iden
+2,3,,,28172,Kent Puckett,,English,173,001,A,Letter Grade,A,Lang/Lit Of Films
+2,2,,,28178,Celeste Langan,,English,174,001,A,Letter Grade,A,Lit & History
+2,13,,,28181,Georgina Kleege,,English,175,001,A,Letter Grade,A,Lit And Disability
+2,4,,,28190,Kathleen Donegan,,English,190,001,A,Letter Grade,A,Research Seminar
+2,1,,,28193,Bryan Wagner,,English,190,002,A,Letter Grade,A,Research Seminar
+2,8,,,28196,Catherine Flynn,,English,190,003,A,Letter Grade,A,Research Seminar
+2,1,,,28199,Marisa Knox,,English,190,004,A,Letter Grade,A,Research Seminar
+2,1,,,28202,James Turner,,English,190,005,A,Letter Grade,A,Research Seminar
+2,3,,,28205,John Shoptaw,,English,190,006,A,Letter Grade,A,Research Seminar
+2,5,,,28208,Elizabeth Abel,,English,190,007,A,Letter Grade,A,Research Seminar
+2,2,,,28211,Stephen Best,,English,190,008,A,Letter Grade,A,Research Seminar
+2,7,,,28214,Eric Falci,,English,190,009,A,Letter Grade,A,Research Seminar
+2,4,,,28217,Ian Duncan,,English,190,010,A,Letter Grade,A,Research Seminar
+2,2,,,28220,Jasper Bernes,,English,190,011,A,Letter Grade,A,Research Seminar
+2,3,,,28223,Lyn Hejinian,,English,190,012,A,Letter Grade,A,Research Seminar
+2,5,,,28229,George Starr,,English,190,014,A,Letter Grade,A,Research Seminar
+2,6,,,28234,Julia Bader,,English,190,015,A,Letter Grade,A,Research Seminar
+2,12,,,28397,Charles Blanton,,English,200,001,A,Letter Grade,A,Problems Stdy Lit
+2,7,,,28403,Lyn Hejinian,,English,203,002,A,Letter Grade,A,Graduate Readings
+2,7,,,28406,Dorothy Hale,,English,203,003,A,Letter Grade,A,Graduate Readings
+2,4,,,28409,Jennifer Miller,,English,211,001,A,Letter Grade,A,Chaucer
+2,4,,,28418,Jeffrey Knapp,,English,246C,001,A,Letter Grade,A,Graduate Proseminar
+2,7,,,28421,Catherine Flynn,,English,246K,001,A,Letter Grade,A,Grad Pro-Seminars
+2,5,,,28424,Steven Lee,,English,250,001,A,Letter Grade,A,Research Seminars
+2,7,,,28427,Kent Puckett,,English,250,002,A,Letter Grade,A,Research Seminars
+2,4,,,28429,Anne-Lise Francois,,English,250,003,A,Letter Grade,A,Research Seminars
+2,1,,,28721,Emily Thornbury,,English,298,054,A,Letter Grade,A,Special Studies
+2,7,,,28742,Catherine Browning,,English,R1B,009,A,Letter Grade,A,Reading And Comp
+3,1,,,27803,Evan Klavon; Kevis Bea Goodman,,English,R1A,001,A,Letter Grade,A-,Reading And Comp
+3,8,,,27806,Kevis Bea Goodman; Sookyoung Lee,,English,R1A,002,A,Letter Grade,A-,Reading And Comp
+3,11,,,27812,Kevis Bea Goodman; Spencer Strub,,English,R1A,004,A,Letter Grade,A-,Reading And Comp
+3,11,,,27815,Jose Villagrana; Kevis Bea Goodman,,English,R1A,005,A,Letter Grade,A-,Reading And Comp
+3,7,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,A,Letter Grade,A-,Reading And Comp
+3,8,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,A,Letter Grade,A-,Reading And Comp
+3,8,,,27824,Esther Yu; Kevis Bea Goodman,,English,R1A,008,A,Letter Grade,A-,Reading And Comp
+3,2,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,A,Letter Grade,A-,Reading And Comp
+3,3,,,27830,Kevis Bea Goodman; Matthew Ramirez,,English,R1A,010,A,Letter Grade,A-,Reading And Comp
+3,3,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,A,Letter Grade,A-,Reading And Comp
+3,3,,,27839,Amy Lee; Kevis Bea Goodman,,English,R1B,003,A,Letter Grade,A-,Reading And Comp
+3,3,,,27842,Kevis Bea Goodman; Ryan Mcwilliams,,English,R1B,004,A,Letter Grade,A-,Reading And Comp
+3,10,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,A,Letter Grade,A-,Reading And Comp
+3,7,,,27851,Gillian Osborne; Kevis Bea Goodman,,English,R1B,007,A,Letter Grade,A-,Reading And Comp
+3,4,,,27852,Catherine Browning,,English,R1B,008,A,Letter Grade,A-,Reading And Comp
+3,6,,,27854,Nilofar Gardezi,,English,26,001,A,Letter Grade,A-,Intro To Poetry
+3,4,,,27856,Anne-Lise Francois,,English,26,002,A,Letter Grade,A-,Intro To Poetry
+3,16,,,27860,Joseph Lavery,,English,28,001,A,Letter Grade,A-,Intro To Drama
+3,7,,,27863,Nadia Ellis Russell,,English,31AC,001,A,Letter Grade,A-,Lit Amer Cultures
+3,14,,,27869,Jeffrey Knapp,,English,45A,001,A,Letter Grade,A-,Lit In English
+3,16,,,27881,Emily Thornbury,,English,45A,002,A,Letter Grade,A-,Lit In English
+3,22,,,27890,Janet Sorensen,,English,45B,001,A,Letter Grade,A-,Lit In English
+3,6,,,27902,Celeste Langan,,English,45B,002,A,Letter Grade,A-,Lit In English
+3,24,,,27911,Steven Lee,,English,45C,001,A,Letter Grade,A-,Lit In English
+3,17,,,27923,Mark Goble,,English,45C,002,A,Letter Grade,A-,Lit In English
+3,9,,,27935,Garrison Sposito; Robert Hass,,English,C77,001,A,Letter Grade,A-,Int Environ Studies
+3,8,,,28019,Emily Thornbury,,English,104,001,A,Letter Grade,A-,Intro To Old Engl
+3,12,,,28022,David Marno,,English,115A,001,A,Letter Grade,A-,Eng Renaissance
+3,2,,,28025,Victoria Kahn,,English,115B,001,A,Letter Grade,A-,Eng Renaissance
+3,4,,,28028,Charles Altieri,,English,117S,001,A,Letter Grade,A-,Shakespeare
+3,22,,,28031,Oliver Arnold,,English,117S,002,A,Letter Grade,A-,Shakespeare
+3,1,,,28046,James Turner,,English,119,001,A,Letter Grade,A-,Lit Rest & Ear 18 C
+3,14,,,28049,Donna Jones,,English,125D,001,A,Letter Grade,A-,20th Century Novel
+3,7,,,28052,Charles Blanton,,English,126,001,A,Letter Grade,A-,British Lit/1900-45
+3,12,,,28067,Charles Altieri,,English,127,001,A,Letter Grade,A-,Modern Poetry
+3,5,,,28070,Samuel Otter,,English,130A,001,A,Letter Grade,A-,Am Lit: Before 1800
+3,16,,,28073,Mitchell Breitwieser,,English,130B,001,A,Letter Grade,A-,Amer Lit: 1800-1865
+3,4,,,28079,Abdul Janmohamed,,English,133B,001,A,Letter Grade,A-,Af Am Since 1917
+3,4,,,28082,Abdul Janmohamed,,English,133T,001,A,Letter Grade,A-,Topics Af Am
+3,30,,,28091,Bryan Wagner,,English,135AC,001,A,Letter Grade,A-,Lit Amer Cultures
+3,6,,,28106,Richard Hutson,,English,C136,001,A,Letter Grade,A-,American Studies
+3,4,,,28109,Poulomi Saha,,English,138,001,A,Letter Grade,A-,Stud Wor Lit Eng
+3,15,,,28112,Melanie Chandra,,English,141,001,A,Letter Grade,A-,Modes Of Writing
+3,25,,,28115,Robert Hass,,English,141,002,A,Letter Grade,A-,Modes Of Writing
+3,2,,,28121,Kirsten Tranter,,English,143A,002,A,Letter Grade,A-,Short Fiction
+3,1,,,28127,John Shoptaw,,English,143B,002,A,Letter Grade,A-,Verse
+3,4,,,28133,Georgina Kleege,,English,143N,001,A,Letter Grade,A-,Prose Nonfiction
+3,1,,,28136,Donald Mcquade,,English,143N,002,A,Letter Grade,A-,Prose Nonfiction
+3,2,,,28139,Dorothy Hale,,English,161,001,A,Letter Grade,A-,Int To Lit Theory
+3,2,,,28142,John Campion,,English,165,001,A,Letter Grade,A-,Special Topics
+3,2,,,28145,Colleen Lye,,English,165,002,A,Letter Grade,A-,Special Topics
+3,4,,,28148,John Campion,,English,165,003,A,Letter Grade,A-,Special Topics
+3,14,,,28154,Hertha Wong,,English,165,005,A,Letter Grade,A-,Special Topics
+3,5,,,28157,Geoffrey O'Brien,,English,165,006,A,Letter Grade,A-,Special Topics
+3,5,,,28163,David Montejano; Genaro Padilla,,English,166,002,A,Letter Grade,A-,Special Topics
+3,17,,,28166,Carla Serpell,,English,166,003,A,Letter Grade,A-,Special Topics
+3,2,,,28168,Poulomi Saha,,English,166,004,A,Letter Grade,A-,Special Topics
+3,4,,,28169,Elizabeth Abel,,English,171,001,A,Letter Grade,A-,Lit And Sexual Iden
+3,25,,,28172,Kent Puckett,,English,173,001,A,Letter Grade,A-,Lang/Lit Of Films
+3,4,,,28178,Celeste Langan,,English,174,001,A,Letter Grade,A-,Lit & History
+3,9,,,28181,Georgina Kleege,,English,175,001,A,Letter Grade,A-,Lit And Disability
+3,4,,,28190,Kathleen Donegan,,English,190,001,A,Letter Grade,A-,Research Seminar
+3,2,,,28193,Bryan Wagner,,English,190,002,A,Letter Grade,A-,Research Seminar
+3,4,,,28196,Catherine Flynn,,English,190,003,A,Letter Grade,A-,Research Seminar
+3,5,,,28199,Marisa Knox,,English,190,004,A,Letter Grade,A-,Research Seminar
+3,2,,,28202,James Turner,,English,190,005,A,Letter Grade,A-,Research Seminar
+3,6,,,28208,Elizabeth Abel,,English,190,007,A,Letter Grade,A-,Research Seminar
+3,1,,,28211,Stephen Best,,English,190,008,A,Letter Grade,A-,Research Seminar
+3,6,,,28214,Eric Falci,,English,190,009,A,Letter Grade,A-,Research Seminar
+3,5,,,28217,Ian Duncan,,English,190,010,A,Letter Grade,A-,Research Seminar
+3,1,,,28220,Jasper Bernes,,English,190,011,A,Letter Grade,A-,Research Seminar
+3,5,,,28229,George Starr,,English,190,014,A,Letter Grade,A-,Research Seminar
+3,1,,,28234,Julia Bader,,English,190,015,A,Letter Grade,A-,Research Seminar
+3,1,,,28418,Jeffrey Knapp,,English,246C,001,A,Letter Grade,A-,Graduate Proseminar
+3,3,,,28742,Catherine Browning,,English,R1B,009,A,Letter Grade,A-,Reading And Comp
+4,5,,,27803,Evan Klavon; Kevis Bea Goodman,,English,R1A,001,B,Letter Grade,B+,Reading And Comp
+4,4,,,27806,Kevis Bea Goodman; Sookyoung Lee,,English,R1A,002,B,Letter Grade,B+,Reading And Comp
+4,3,,,27809,Helen Ciacciarelli; Kevis Bea Goodman,,English,R1A,003,B,Letter Grade,B+,Reading And Comp
+4,3,,,27812,Kevis Bea Goodman; Spencer Strub,,English,R1A,004,B,Letter Grade,B+,Reading And Comp
+4,1,,,27815,Jose Villagrana; Kevis Bea Goodman,,English,R1A,005,B,Letter Grade,B+,Reading And Comp
+4,2,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,B,Letter Grade,B+,Reading And Comp
+4,4,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,B,Letter Grade,B+,Reading And Comp
+4,1,,,27824,Esther Yu; Kevis Bea Goodman,,English,R1A,008,B,Letter Grade,B+,Reading And Comp
+4,2,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,B,Letter Grade,B+,Reading And Comp
+4,5,,,27830,Kevis Bea Goodman; Matthew Ramirez,,English,R1A,010,B,Letter Grade,B+,Reading And Comp
+4,2,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,B,Letter Grade,B+,Reading And Comp
+4,6,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,B,Letter Grade,B+,Reading And Comp
+4,8,,,27839,Amy Lee; Kevis Bea Goodman,,English,R1B,003,B,Letter Grade,B+,Reading And Comp
+4,6,,,27842,Kevis Bea Goodman; Ryan Mcwilliams,,English,R1B,004,B,Letter Grade,B+,Reading And Comp
+4,1,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,B,Letter Grade,B+,Reading And Comp
+4,3,,,27848,Katherine Ding; Kevis Bea Goodman,,English,R1B,006,B,Letter Grade,B+,Reading And Comp
+4,2,,,27851,Gillian Osborne; Kevis Bea Goodman,,English,R1B,007,B,Letter Grade,B+,Reading And Comp
+4,5,,,27852,Catherine Browning,,English,R1B,008,B,Letter Grade,B+,Reading And Comp
+4,6,,,27856,Anne-Lise Francois,,English,26,002,B,Letter Grade,B+,Intro To Poetry
+4,2,,,27860,Joseph Lavery,,English,28,001,B,Letter Grade,B+,Intro To Drama
+4,5,,,27863,Nadia Ellis Russell,,English,31AC,001,B,Letter Grade,B+,Lit Amer Cultures
+4,24,,,27869,Jeffrey Knapp,,English,45A,001,B,Letter Grade,B+,Lit In English
+4,11,,,27881,Emily Thornbury,,English,45A,002,B,Letter Grade,B+,Lit In English
+4,28,,,27890,Janet Sorensen,,English,45B,001,B,Letter Grade,B+,Lit In English
+4,5,,,27902,Celeste Langan,,English,45B,002,B,Letter Grade,B+,Lit In English
+4,20,,,27911,Steven Lee,,English,45C,001,B,Letter Grade,B+,Lit In English
+4,14,,,27923,Mark Goble,,English,45C,002,B,Letter Grade,B+,Lit In English
+4,8,,,27935,Garrison Sposito; Robert Hass,,English,C77,001,B,Letter Grade,B+,Int Environ Studies
+4,7,,,28019,Emily Thornbury,,English,104,001,B,Letter Grade,B+,Intro To Old Engl
+4,9,,,28022,David Marno,,English,115A,001,B,Letter Grade,B+,Eng Renaissance
+4,5,,,28025,Victoria Kahn,,English,115B,001,B,Letter Grade,B+,Eng Renaissance
+4,5,,,28028,Charles Altieri,,English,117S,001,B,Letter Grade,B+,Shakespeare
+4,22,,,28031,Oliver Arnold,,English,117S,002,B,Letter Grade,B+,Shakespeare
+4,11,,,28049,Donna Jones,,English,125D,001,B,Letter Grade,B+,20th Century Novel
+4,9,,,28052,Charles Blanton,,English,126,001,B,Letter Grade,B+,British Lit/1900-45
+4,5,,,28067,Charles Altieri,,English,127,001,B,Letter Grade,B+,Modern Poetry
+4,12,,,28070,Samuel Otter,,English,130A,001,B,Letter Grade,B+,Am Lit: Before 1800
+4,7,,,28073,Mitchell Breitwieser,,English,130B,001,B,Letter Grade,B+,Amer Lit: 1800-1865
+4,1,,,28076,Stephen Best,,English,133A,001,B,Letter Grade,B+,Af Am Before 1917
+4,6,,,28079,Abdul Janmohamed,,English,133B,001,B,Letter Grade,B+,Af Am Since 1917
+4,7,,,28082,Abdul Janmohamed,,English,133T,001,B,Letter Grade,B+,Topics Af Am
+4,13,,,28091,Bryan Wagner,,English,135AC,001,B,Letter Grade,B+,Lit Amer Cultures
+4,1,,,28106,Richard Hutson,,English,C136,001,B,Letter Grade,B+,American Studies
+4,2,,,28112,Melanie Chandra,,English,141,001,B,Letter Grade,B+,Modes Of Writing
+4,6,,,28115,Robert Hass,,English,141,002,B,Letter Grade,B+,Modes Of Writing
+4,5,,,28139,Dorothy Hale,,English,161,001,B,Letter Grade,B+,Int To Lit Theory
+4,1,,,28142,John Campion,,English,165,001,B,Letter Grade,B+,Special Topics
+4,1,,,28145,Colleen Lye,,English,165,002,B,Letter Grade,B+,Special Topics
+4,4,,,28148,John Campion,,English,165,003,B,Letter Grade,B+,Special Topics
+4,3,,,28154,Hertha Wong,,English,165,005,B,Letter Grade,B+,Special Topics
+4,2,,,28157,Geoffrey O'Brien,,English,165,006,B,Letter Grade,B+,Special Topics
+4,6,,,28166,Carla Serpell,,English,166,003,B,Letter Grade,B+,Special Topics
+4,8,,,28169,Elizabeth Abel,,English,171,001,B,Letter Grade,B+,Lit And Sexual Iden
+4,18,,,28172,Kent Puckett,,English,173,001,B,Letter Grade,B+,Lang/Lit Of Films
+4,6,,,28178,Celeste Langan,,English,174,001,B,Letter Grade,B+,Lit & History
+4,12,,,28181,Georgina Kleege,,English,175,001,B,Letter Grade,B+,Lit And Disability
+4,1,,,28190,Kathleen Donegan,,English,190,001,B,Letter Grade,B+,Research Seminar
+4,1,,,28193,Bryan Wagner,,English,190,002,B,Letter Grade,B+,Research Seminar
+4,3,,,28196,Catherine Flynn,,English,190,003,B,Letter Grade,B+,Research Seminar
+4,1,,,28202,James Turner,,English,190,005,B,Letter Grade,B+,Research Seminar
+4,3,,,28208,Elizabeth Abel,,English,190,007,B,Letter Grade,B+,Research Seminar
+4,6,,,28214,Eric Falci,,English,190,009,B,Letter Grade,B+,Research Seminar
+4,1,,,28217,Ian Duncan,,English,190,010,B,Letter Grade,B+,Research Seminar
+4,2,,,28220,Jasper Bernes,,English,190,011,B,Letter Grade,B+,Research Seminar
+4,2,,,28229,George Starr,,English,190,014,B,Letter Grade,B+,Research Seminar
+4,2,,,28234,Julia Bader,,English,190,015,B,Letter Grade,B+,Research Seminar
+4,2,,,28742,Catherine Browning,,English,R1B,009,B,Letter Grade,B+,Reading And Comp
+5,7,,,27803,Evan Klavon; Kevis Bea Goodman,,English,R1A,001,B,Letter Grade,B,Reading And Comp
+5,1,,,27806,Kevis Bea Goodman; Sookyoung Lee,,English,R1A,002,B,Letter Grade,B,Reading And Comp
+5,7,,,27809,Helen Ciacciarelli; Kevis Bea Goodman,,English,R1A,003,B,Letter Grade,B,Reading And Comp
+5,1,,,27812,Kevis Bea Goodman; Spencer Strub,,English,R1A,004,B,Letter Grade,B,Reading And Comp
+5,1,,,27815,Jose Villagrana; Kevis Bea Goodman,,English,R1A,005,B,Letter Grade,B,Reading And Comp
+5,2,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,B,Letter Grade,B,Reading And Comp
+5,4,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,B,Letter Grade,B,Reading And Comp
+5,1,,,27824,Esther Yu; Kevis Bea Goodman,,English,R1A,008,B,Letter Grade,B,Reading And Comp
+5,4,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,B,Letter Grade,B,Reading And Comp
+5,8,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,B,Letter Grade,B,Reading And Comp
+5,4,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,B,Letter Grade,B,Reading And Comp
+5,2,,,27839,Amy Lee; Kevis Bea Goodman,,English,R1B,003,B,Letter Grade,B,Reading And Comp
+5,3,,,27842,Kevis Bea Goodman; Ryan Mcwilliams,,English,R1B,004,B,Letter Grade,B,Reading And Comp
+5,1,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,B,Letter Grade,B,Reading And Comp
+5,3,,,27848,Katherine Ding; Kevis Bea Goodman,,English,R1B,006,B,Letter Grade,B,Reading And Comp
+5,1,,,27851,Gillian Osborne; Kevis Bea Goodman,,English,R1B,007,B,Letter Grade,B,Reading And Comp
+5,2,,,27852,Catherine Browning,,English,R1B,008,B,Letter Grade,B,Reading And Comp
+5,1,,,27854,Nilofar Gardezi,,English,26,001,B,Letter Grade,B,Intro To Poetry
+5,1,,,27860,Joseph Lavery,,English,28,001,B,Letter Grade,B,Intro To Drama
+5,21,,,27869,Jeffrey Knapp,,English,45A,001,B,Letter Grade,B,Lit In English
+5,8,,,27881,Emily Thornbury,,English,45A,002,B,Letter Grade,B,Lit In English
+5,11,,,27890,Janet Sorensen,,English,45B,001,B,Letter Grade,B,Lit In English
+5,4,,,27902,Celeste Langan,,English,45B,002,B,Letter Grade,B,Lit In English
+5,14,,,27911,Steven Lee,,English,45C,001,B,Letter Grade,B,Lit In English
+5,4,,,27923,Mark Goble,,English,45C,002,B,Letter Grade,B,Lit In English
+5,5,,,28019,Emily Thornbury,,English,104,001,B,Letter Grade,B,Intro To Old Engl
+5,15,,,28022,David Marno,,English,115A,001,B,Letter Grade,B,Eng Renaissance
+5,2,,,28025,Victoria Kahn,,English,115B,001,B,Letter Grade,B,Eng Renaissance
+5,4,,,28028,Charles Altieri,,English,117S,001,B,Letter Grade,B,Shakespeare
+5,35,,,28031,Oliver Arnold,,English,117S,002,B,Letter Grade,B,Shakespeare
+5,1,,,28046,James Turner,,English,119,001,B,Letter Grade,B,Lit Rest & Ear 18 C
+5,6,,,28049,Donna Jones,,English,125D,001,B,Letter Grade,B,20th Century Novel
+5,3,,,28052,Charles Blanton,,English,126,001,B,Letter Grade,B,British Lit/1900-45
+5,3,,,28067,Charles Altieri,,English,127,001,B,Letter Grade,B,Modern Poetry
+5,7,,,28070,Samuel Otter,,English,130A,001,B,Letter Grade,B,Am Lit: Before 1800
+5,1,,,28073,Mitchell Breitwieser,,English,130B,001,B,Letter Grade,B,Amer Lit: 1800-1865
+5,1,,,28076,Stephen Best,,English,133A,001,B,Letter Grade,B,Af Am Before 1917
+5,3,,,28079,Abdul Janmohamed,,English,133B,001,B,Letter Grade,B,Af Am Since 1917
+5,1,,,28082,Abdul Janmohamed,,English,133T,001,B,Letter Grade,B,Topics Af Am
+5,6,,,28091,Bryan Wagner,,English,135AC,001,B,Letter Grade,B,Lit Amer Cultures
+5,1,,,28106,Richard Hutson,,English,C136,001,B,Letter Grade,B,American Studies
+5,3,,,28109,Poulomi Saha,,English,138,001,B,Letter Grade,B,Stud Wor Lit Eng
+5,1,,,28115,Robert Hass,,English,141,002,B,Letter Grade,B,Modes Of Writing
+5,4,,,28139,Dorothy Hale,,English,161,001,B,Letter Grade,B,Int To Lit Theory
+5,1,,,28142,John Campion,,English,165,001,B,Letter Grade,B,Special Topics
+5,4,,,28145,Colleen Lye,,English,165,002,B,Letter Grade,B,Special Topics
+5,3,,,28163,David Montejano; Genaro Padilla,,English,166,002,B,Letter Grade,B,Special Topics
+5,2,,,28166,Carla Serpell,,English,166,003,B,Letter Grade,B,Special Topics
+5,6,,,28169,Elizabeth Abel,,English,171,001,B,Letter Grade,B,Lit And Sexual Iden
+5,7,,,28172,Kent Puckett,,English,173,001,B,Letter Grade,B,Lang/Lit Of Films
+5,4,,,28178,Celeste Langan,,English,174,001,B,Letter Grade,B,Lit & History
+5,5,,,28181,Georgina Kleege,,English,175,001,B,Letter Grade,B,Lit And Disability
+5,3,,,28190,Kathleen Donegan,,English,190,001,B,Letter Grade,B,Research Seminar
+5,5,,,28196,Catherine Flynn,,English,190,003,B,Letter Grade,B,Research Seminar
+5,1,,,28202,James Turner,,English,190,005,B,Letter Grade,B,Research Seminar
+5,2,,,28205,John Shoptaw,,English,190,006,B,Letter Grade,B,Research Seminar
+5,2,,,28208,Elizabeth Abel,,English,190,007,B,Letter Grade,B,Research Seminar
+5,1,,,28214,Eric Falci,,English,190,009,B,Letter Grade,B,Research Seminar
+5,2,,,28217,Ian Duncan,,English,190,010,B,Letter Grade,B,Research Seminar
+5,2,,,28742,Catherine Browning,,English,R1B,009,B,Letter Grade,B,Reading And Comp
+6,4,,,27809,Helen Ciacciarelli; Kevis Bea Goodman,,English,R1A,003,B,Letter Grade,B-,Reading And Comp
+6,1,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,B,Letter Grade,B-,Reading And Comp
+6,1,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,B,Letter Grade,B-,Reading And Comp
+6,3,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,B,Letter Grade,B-,Reading And Comp
+6,3,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,B,Letter Grade,B-,Reading And Comp
+6,1,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,B,Letter Grade,B-,Reading And Comp
+6,1,,,27839,Amy Lee; Kevis Bea Goodman,,English,R1B,003,B,Letter Grade,B-,Reading And Comp
+6,2,,,27845,Kevis Bea Goodman; Khalil Sullivan,,English,R1B,005,B,Letter Grade,B-,Reading And Comp
+6,3,,,27848,Katherine Ding; Kevis Bea Goodman,,English,R1B,006,B,Letter Grade,B-,Reading And Comp
+6,1,,,27852,Catherine Browning,,English,R1B,008,B,Letter Grade,B-,Reading And Comp
+6,11,,,27869,Jeffrey Knapp,,English,45A,001,B,Letter Grade,B-,Lit In English
+6,3,,,27881,Emily Thornbury,,English,45A,002,B,Letter Grade,B-,Lit In English
+6,4,,,27890,Janet Sorensen,,English,45B,001,B,Letter Grade,B-,Lit In English
+6,1,,,27902,Celeste Langan,,English,45B,002,B,Letter Grade,B-,Lit In English
+6,6,,,27911,Steven Lee,,English,45C,001,B,Letter Grade,B-,Lit In English
+6,2,,,27923,Mark Goble,,English,45C,002,B,Letter Grade,B-,Lit In English
+6,1,,,28019,Emily Thornbury,,English,104,001,B,Letter Grade,B-,Intro To Old Engl
+6,8,,,28022,David Marno,,English,115A,001,B,Letter Grade,B-,Eng Renaissance
+6,1,,,28025,Victoria Kahn,,English,115B,001,B,Letter Grade,B-,Eng Renaissance
+6,1,,,28028,Charles Altieri,,English,117S,001,B,Letter Grade,B-,Shakespeare
+6,7,,,28031,Oliver Arnold,,English,117S,002,B,Letter Grade,B-,Shakespeare
+6,1,,,28046,James Turner,,English,119,001,B,Letter Grade,B-,Lit Rest & Ear 18 C
+6,5,,,28049,Donna Jones,,English,125D,001,B,Letter Grade,B-,20th Century Novel
+6,1,,,28067,Charles Altieri,,English,127,001,B,Letter Grade,B-,Modern Poetry
+6,5,,,28070,Samuel Otter,,English,130A,001,B,Letter Grade,B-,Am Lit: Before 1800
+6,1,,,28076,Stephen Best,,English,133A,001,B,Letter Grade,B-,Af Am Before 1917
+6,1,,,28079,Abdul Janmohamed,,English,133B,001,B,Letter Grade,B-,Af Am Since 1917
+6,9,,,28091,Bryan Wagner,,English,135AC,001,B,Letter Grade,B-,Lit Amer Cultures
+6,2,,,28106,Richard Hutson,,English,C136,001,B,Letter Grade,B-,American Studies
+6,1,,,28112,Melanie Chandra,,English,141,001,B,Letter Grade,B-,Modes Of Writing
+6,2,,,28139,Dorothy Hale,,English,161,001,B,Letter Grade,B-,Int To Lit Theory
+6,3,,,28166,Carla Serpell,,English,166,003,B,Letter Grade,B-,Special Topics
+6,5,,,28169,Elizabeth Abel,,English,171,001,B,Letter Grade,B-,Lit And Sexual Iden
+6,1,,,28178,Celeste Langan,,English,174,001,B,Letter Grade,B-,Lit & History
+6,1,,,28181,Georgina Kleege,,English,175,001,B,Letter Grade,B-,Lit And Disability
+6,1,,,28202,James Turner,,English,190,005,B,Letter Grade,B-,Research Seminar
+6,1,,,28208,Elizabeth Abel,,English,190,007,B,Letter Grade,B-,Research Seminar
+6,2,,,28217,Ian Duncan,,English,190,010,B,Letter Grade,B-,Research Seminar
+7,2,,,27809,Helen Ciacciarelli; Kevis Bea Goodman,,English,R1A,003,C,Letter Grade,C+,Reading And Comp
+7,2,,,27821,Isaac Zisman; Kevis Bea Goodman,,English,R1A,007,C,Letter Grade,C+,Reading And Comp
+7,1,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,C,Letter Grade,C+,Reading And Comp
+7,1,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,C,Letter Grade,C+,Reading And Comp
+7,2,,,27869,Jeffrey Knapp,,English,45A,001,C,Letter Grade,C+,Lit In English
+7,1,,,27890,Janet Sorensen,,English,45B,001,C,Letter Grade,C+,Lit In English
+7,1,,,27911,Steven Lee,,English,45C,001,C,Letter Grade,C+,Lit In English
+7,1,,,27923,Mark Goble,,English,45C,002,C,Letter Grade,C+,Lit In English
+7,5,,,28022,David Marno,,English,115A,001,C,Letter Grade,C+,Eng Renaissance
+7,3,,,28025,Victoria Kahn,,English,115B,001,C,Letter Grade,C+,Eng Renaissance
+7,2,,,28070,Samuel Otter,,English,130A,001,C,Letter Grade,C+,Am Lit: Before 1800
+7,1,,,28079,Abdul Janmohamed,,English,133B,001,C,Letter Grade,C+,Af Am Since 1917
+7,1,,,28091,Bryan Wagner,,English,135AC,001,C,Letter Grade,C+,Lit Amer Cultures
+7,1,,,28106,Richard Hutson,,English,C136,001,C,Letter Grade,C+,American Studies
+7,1,,,28166,Carla Serpell,,English,166,003,C,Letter Grade,C+,Special Topics
+7,2,,,28169,Elizabeth Abel,,English,171,001,C,Letter Grade,C+,Lit And Sexual Iden
+7,1,,,28199,Marisa Knox,,English,190,004,C,Letter Grade,C+,Research Seminar
+7,1,,,28214,Eric Falci,,English,190,009,C,Letter Grade,C+,Research Seminar
+8,1,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,C,Letter Grade,C,Reading And Comp
+8,1,,,27869,Jeffrey Knapp,,English,45A,001,C,Letter Grade,C,Lit In English
+8,2,,,27890,Janet Sorensen,,English,45B,001,C,Letter Grade,C,Lit In English
+8,2,,,27923,Mark Goble,,English,45C,002,C,Letter Grade,C,Lit In English
+8,2,,,28019,Emily Thornbury,,English,104,001,C,Letter Grade,C,Intro To Old Engl
+8,5,,,28025,Victoria Kahn,,English,115B,001,C,Letter Grade,C,Eng Renaissance
+8,1,,,28031,Oliver Arnold,,English,117S,002,C,Letter Grade,C,Shakespeare
+8,1,,,28070,Samuel Otter,,English,130A,001,C,Letter Grade,C,Am Lit: Before 1800
+8,3,,,28091,Bryan Wagner,,English,135AC,001,C,Letter Grade,C,Lit Amer Cultures
+8,1,,,28109,Poulomi Saha,,English,138,001,C,Letter Grade,C,Stud Wor Lit Eng
+9,1,,,27827,Kevis Bea Goodman; Lucy Sirianni,,English,R1A,009,C,Letter Grade,C-,Reading And Comp
+9,1,,,27869,Jeffrey Knapp,,English,45A,001,C,Letter Grade,C-,Lit In English
+9,1,,,28031,Oliver Arnold,,English,117S,002,C,Letter Grade,C-,Shakespeare
+9,1,,,28049,Donna Jones,,English,125D,001,C,Letter Grade,C-,20th Century Novel
+9,1,,,28067,Charles Altieri,,English,127,001,C,Letter Grade,C-,Modern Poetry
+9,2,,,28070,Samuel Otter,,English,130A,001,C,Letter Grade,C-,Am Lit: Before 1800
+9,1,,,28091,Bryan Wagner,,English,135AC,001,C,Letter Grade,C-,Lit Amer Cultures
+9,1,,,28742,Catherine Browning,,English,R1B,009,C,Letter Grade,C-,Reading And Comp
+10,1,,,27911,Steven Lee,,English,45C,001,D,Letter Grade,D+,Lit In English
+12,1,,,28109,Poulomi Saha,,English,138,001,D,Letter Grade,D-,Stud Wor Lit Eng
+13,2,,,27812,Kevis Bea Goodman; Spencer Strub,,English,R1A,004,F,Letter Grade,F,Reading And Comp
+13,1,,,27852,Catherine Browning,,English,R1B,008,F,Letter Grade,F,Reading And Comp
+13,1,,,27869,Jeffrey Knapp,,English,45A,001,F,Letter Grade,F,Lit In English
+13,1,,,27881,Emily Thornbury,,English,45A,002,F,Letter Grade,F,Lit In English
+13,1,,,28067,Charles Altieri,,English,127,001,F,Letter Grade,F,Modern Poetry
+13,1,,,28070,Samuel Otter,,English,130A,001,F,Letter Grade,F,Am Lit: Before 1800
+13,1,,,28079,Abdul Janmohamed,,English,133B,001,F,Letter Grade,F,Af Am Since 1917
+13,1,,,28139,Dorothy Hale,,English,161,001,F,Letter Grade,F,Int To Lit Theory
+13,1,,,28193,Bryan Wagner,,English,190,002,F,Letter Grade,F,Research Seminar
+22,13,,,27853,Hertha Wong,,English,24,001,Credit,Non-Letter Grade,Pass,Freshman Seminars
+22,5,,,27854,Nilofar Gardezi,,English,26,001,Credit,Non-Letter Grade,Pass,Intro To Poetry
+22,3,,,27869,Jeffrey Knapp,,English,45A,001,Credit,Non-Letter Grade,Pass,Lit In English
+22,3,,,27881,Emily Thornbury,,English,45A,002,Credit,Non-Letter Grade,Pass,Lit In English
+22,2,,,27890,Janet Sorensen,,English,45B,001,Credit,Non-Letter Grade,Pass,Lit In English
+22,3,,,27911,Steven Lee,,English,45C,001,Credit,Non-Letter Grade,Pass,Lit In English
+22,4,,,27923,Mark Goble,,English,45C,002,Credit,Non-Letter Grade,Pass,Lit In English
+22,2,,,27935,Garrison Sposito; Robert Hass,,English,C77,001,Credit,Non-Letter Grade,Pass,Int Environ Studies
+22,14,,,27956,Julia Bader,,English,84,001,Credit,Non-Letter Grade,Pass,Sophomore Seminar
+22,5,,,27959,Helen Ciacciarelli; Kevis Bea Goodman,,English,98,001,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,6,,,27962,Christopher Miller; Kevis Bea Goodman,,English,98,002,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,8,,,27967,Oliver Arnold,,English,98,004,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,20,,,27971,Steven Lee,,English,98,011,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,23,,,27974,Eric Falci,,English,98,012,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,7,,,27977,Susan Schweik,,English,98,013,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,20,,,28000,Kathleen Donegan; Serena Le,,English,98BC,001,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,1,,,28001,Charles Blanton,,English,99,001,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,10,,,28019,Emily Thornbury,,English,104,001,Credit,Non-Letter Grade,Pass,Intro To Old Engl
+22,4,,,28022,David Marno,,English,115A,001,Credit,Non-Letter Grade,Pass,Eng Renaissance
+22,5,,,28025,Victoria Kahn,,English,115B,001,Credit,Non-Letter Grade,Pass,Eng Renaissance
+22,3,,,28028,Charles Altieri,,English,117S,001,Credit,Non-Letter Grade,Pass,Shakespeare
+22,1,,,28031,Oliver Arnold,,English,117S,002,Credit,Non-Letter Grade,Pass,Shakespeare
+22,6,,,28046,James Turner,,English,119,001,Credit,Non-Letter Grade,Pass,Lit Rest & Ear 18 C
+22,3,,,28049,Donna Jones,,English,125D,001,Credit,Non-Letter Grade,Pass,20th Century Novel
+22,4,,,28052,Charles Blanton,,English,126,001,Credit,Non-Letter Grade,Pass,British Lit/1900-45
+22,9,,,28067,Charles Altieri,,English,127,001,Credit,Non-Letter Grade,Pass,Modern Poetry
+22,4,,,28070,Samuel Otter,,English,130A,001,Credit,Non-Letter Grade,Pass,Am Lit: Before 1800
+22,5,,,28073,Mitchell Breitwieser,,English,130B,001,Credit,Non-Letter Grade,Pass,Amer Lit: 1800-1865
+22,10,,,28091,Bryan Wagner,,English,135AC,001,Credit,Non-Letter Grade,Pass,Lit Amer Cultures
+22,1,,,28106,Richard Hutson,,English,C136,001,Credit,Non-Letter Grade,Pass,American Studies
+22,1,,,28109,Poulomi Saha,,English,138,001,Credit,Non-Letter Grade,Pass,Stud Wor Lit Eng
+22,5,,,28139,Dorothy Hale,,English,161,001,Credit,Non-Letter Grade,Pass,Int To Lit Theory
+22,1,,,28145,Colleen Lye,,English,165,002,Credit,Non-Letter Grade,Pass,Special Topics
+22,1,,,28148,John Campion,,English,165,003,Credit,Non-Letter Grade,Pass,Special Topics
+22,1,,,28154,Hertha Wong,,English,165,005,Credit,Non-Letter Grade,Pass,Special Topics
+22,1,,,28157,Geoffrey O'Brien,,English,165,006,Credit,Non-Letter Grade,Pass,Special Topics
+22,2,,,28163,David Montejano; Genaro Padilla,,English,166,002,Credit,Non-Letter Grade,Pass,Special Topics
+22,5,,,28166,Carla Serpell,,English,166,003,Credit,Non-Letter Grade,Pass,Special Topics
+22,1,,,28168,Poulomi Saha,,English,166,004,Credit,Non-Letter Grade,Pass,Special Topics
+22,3,,,28169,Elizabeth Abel,,English,171,001,Credit,Non-Letter Grade,Pass,Lit And Sexual Iden
+22,1,,,28172,Kent Puckett,,English,173,001,Credit,Non-Letter Grade,Pass,Lang/Lit Of Films
+22,3,,,28178,Celeste Langan,,English,174,001,Credit,Non-Letter Grade,Pass,Lit & History
+22,1,,,28181,Georgina Kleege,,English,175,001,Credit,Non-Letter Grade,Pass,Lit And Disability
+22,1,,,28196,Catherine Flynn,,English,190,003,Credit,Non-Letter Grade,Pass,Research Seminar
+22,1,,,28208,Elizabeth Abel,,English,190,007,Credit,Non-Letter Grade,Pass,Research Seminar
+22,1,,,28229,George Starr,,English,190,014,Credit,Non-Letter Grade,Pass,Research Seminar
+22,18,,,28250,Oliver Arnold,,English,198,004,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,16,,,28253,Charles Blanton,,English,198,005,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,15,,,28256,Kathleen Donegan,,English,198,006,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,3,,,28259,Cecil Giscombe,,English,198,007,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,6,,,28262,Mark Goble,,English,198,008,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,16,,,28265,Georgina Kleege,,English,198,009,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,11,,,28271,Steven Lee,,English,198,011,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,14,,,28274,Eric Falci,,English,198,012,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,3,,,28277,Susan Schweik,,English,198,013,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,18,,,28306,Kathleen Donegan; Rasheed Tazudeen,,English,198BC,001,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,1,,,28307,Celeste Langan,,English,199,001,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,4,,,28310,Joseph Lavery,,English,199,002,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,4,,,28313,Susan Schweik,,English,199,003,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,28316,Lyn Hejinian,,English,199,004,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,28322,Kathleen Donegan,,English,199,006,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,28325,Steven Lee,,English,199,007,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,28328,Eric Falci,,English,199,008,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,28331,Robert Hass,,English,199,009,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,28334,Charles Blanton,,English,199,010,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,2,,,28337,Mark Goble,,English,199,011,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,28340,David Marno,,English,199,012,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,1,,,28343,Vikram Chandra,,English,199,013,Credit,Non-Letter Grade,Pass,Superv Indep Study
+22,3,,,28646,Kevis Bea Goodman,,English,310,001,Credit,Non-Letter Grade,Pass,Field Studies
+22,19,,,28655,Kathleen Donegan; Leila Mansouri,,English,98BC,002,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28658,Kathleen Donegan; Stephanie Moore,,English,98BC,003,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28661,Kathleen Donegan; Serena Le,,English,198BC,002,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28664,Kathleen Donegan; Rasheed Tazudeen,,English,198BC,003,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28667,Irene Yoon; Kathleen Donegan,,English,198BC,004,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,20,,,28670,Irene Yoon; Kathleen Donegan,,English,198BC,005,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,18,,,28673,Kathleen Donegan; Leila Mansouri,,English,198BC,006,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,21,,,28676,Jonathan Shelley; Kathleen Donegan,,English,198BC,007,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28679,Kathleen Donegan; Stephanie Moore,,English,198BC,008,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,19,,,28682,Jonathan Shelley; Kathleen Donegan,,English,198BC,009,Credit,Non-Letter Grade,Pass,Directed Group Stud
+22,11,,,28688,Charles Blanton,,English,98,005,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,12,,,28691,Kathleen Donegan,,English,98,006,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,8,,,28694,Cecil Giscombe,,English,98,007,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,1,,,28697,Mark Goble,,English,98,008,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,16,,,28700,Georgina Kleege,,English,98,009,Credit,Non-Letter Grade,Pass,Directed Group Stdy
+22,8,,,28745,Morton Paley,,English,24,003,Credit,Non-Letter Grade,Pass,Freshman Seminars
+25,1,,,28118,Vikram Chandra,,English,143A,001,Credit,Non-Letter Grade,Satisfactory,Short Fiction
+25,1,,,28274,Eric Falci,,English,198,012,Credit,Non-Letter Grade,Satisfactory,Directed Group Stdy
+25,1,,,28406,Dorothy Hale,,English,203,003,Credit,Non-Letter Grade,Satisfactory,Graduate Readings
+25,15,,,28649,Kevis Bea Goodman,,English,375,001,Credit,Non-Letter Grade,Satisfactory,Teaching Comp/Lit
+25,102,,,28652,Elisa Tamarkin,,English,602,001,Credit,Non-Letter Grade,Satisfactory,Ind Study/Doctoral
+27,1,,,27803,Evan Klavon; Kevis Bea Goodman,,English,R1A,001,No Credit,Non-Letter Grade,Not Pass,Reading And Comp
+27,2,,,27854,Nilofar Gardezi,,English,26,001,No Credit,Non-Letter Grade,Not Pass,Intro To Poetry
+27,1,,,28019,Emily Thornbury,,English,104,001,No Credit,Non-Letter Grade,Not Pass,Intro To Old Engl
+27,1,,,28025,Victoria Kahn,,English,115B,001,No Credit,Non-Letter Grade,Not Pass,Eng Renaissance
+27,1,,,28028,Charles Altieri,,English,117S,001,No Credit,Non-Letter Grade,Not Pass,Shakespeare
+27,2,,,28049,Donna Jones,,English,125D,001,No Credit,Non-Letter Grade,Not Pass,20th Century Novel
+27,2,,,28067,Charles Altieri,,English,127,001,No Credit,Non-Letter Grade,Not Pass,Modern Poetry
+27,1,,,28091,Bryan Wagner,,English,135AC,001,No Credit,Non-Letter Grade,Not Pass,Lit Amer Cultures
+27,1,,,28139,Dorothy Hale,,English,161,001,No Credit,Non-Letter Grade,Not Pass,Int To Lit Theory
+27,1,,,28169,Elizabeth Abel,,English,171,001,No Credit,Non-Letter Grade,Not Pass,Lit And Sexual Iden
+27,1,,,28256,Kathleen Donegan,,English,198,006,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+27,2,,,28265,Georgina Kleege,,English,198,009,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+27,1,,,28274,Eric Falci,,English,198,012,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+27,1,,,28655,Kathleen Donegan; Leila Mansouri,,English,98BC,002,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28661,Kathleen Donegan; Serena Le,,English,198BC,002,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28664,Kathleen Donegan; Rasheed Tazudeen,,English,198BC,003,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28667,Irene Yoon; Kathleen Donegan,,English,198BC,004,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28673,Kathleen Donegan; Leila Mansouri,,English,198BC,006,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28679,Kathleen Donegan; Stephanie Moore,,English,198BC,008,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28682,Jonathan Shelley; Kathleen Donegan,,English,198BC,009,No Credit,Non-Letter Grade,Not Pass,Directed Group Stud
+27,1,,,28700,Georgina Kleege,,English,98,009,No Credit,Non-Letter Grade,Not Pass,Directed Group Stdy
+30,1,,,27818,Aileen Liu; Kevis Bea Goodman,,English,R1A,006,Administrative Code,Administrative Code,Incomplete,Reading And Comp
+30,1,,,27833,Anna Abramson; Kevis Bea Goodman,,English,R1B,001,Administrative Code,Administrative Code,Incomplete,Reading And Comp
+30,1,,,27836,Christopher Miller; Kevis Bea Goodman,,English,R1B,002,Administrative Code,Administrative Code,Incomplete,Reading And Comp
+30,1,,,27854,Nilofar Gardezi,,English,26,001,Administrative Code,Administrative Code,Incomplete,Intro To Poetry
+30,1,,,27856,Anne-Lise Francois,,English,26,002,Administrative Code,Administrative Code,Incomplete,Intro To Poetry
+30,2,,,27869,Jeffrey Knapp,,English,45A,001,Administrative Code,Administrative Code,Incomplete,Lit In English
+30,1,,,27881,Emily Thornbury,,English,45A,002,Administrative Code,Administrative Code,Incomplete,Lit In English
+30,1,,,27911,Steven Lee,,English,45C,001,Administrative Code,Administrative Code,Incomplete,Lit In English
+30,2,,,27923,Mark Goble,,English,45C,002,Administrative Code,Administrative Code,Incomplete,Lit In English
+30,1,,,28007,-,,English,99,003,Administrative Code,Administrative Code,Incomplete,Superv Indep Study
+30,2,,,28028,Charles Altieri,,English,117S,001,Administrative Code,Administrative Code,Incomplete,Shakespeare
+30,2,,,28031,Oliver Arnold,,English,117S,002,Administrative Code,Administrative Code,Incomplete,Shakespeare
+30,1,,,28049,Donna Jones,,English,125D,001,Administrative Code,Administrative Code,Incomplete,20th Century Novel
+30,1,,,28052,Charles Blanton,,English,126,001,Administrative Code,Administrative Code,Incomplete,British Lit/1900-45
+30,1,,,28067,Charles Altieri,,English,127,001,Administrative Code,Administrative Code,Incomplete,Modern Poetry
+30,1,,,28070,Samuel Otter,,English,130A,001,Administrative Code,Administrative Code,Incomplete,Am Lit: Before 1800
+30,5,,,28073,Mitchell Breitwieser,,English,130B,001,Administrative Code,Administrative Code,Incomplete,Amer Lit: 1800-1865
+30,1,,,28079,Abdul Janmohamed,,English,133B,001,Administrative Code,Administrative Code,Incomplete,Af Am Since 1917
+30,1,,,28139,Dorothy Hale,,English,161,001,Administrative Code,Administrative Code,Incomplete,Int To Lit Theory
+30,1,,,28163,David Montejano; Genaro Padilla,,English,166,002,Administrative Code,Administrative Code,Incomplete,Special Topics
+30,1,,,28166,Carla Serpell,,English,166,003,Administrative Code,Administrative Code,Incomplete,Special Topics
+30,2,,,28169,Elizabeth Abel,,English,171,001,Administrative Code,Administrative Code,Incomplete,Lit And Sexual Iden
+30,1,,,28172,Kent Puckett,,English,173,001,Administrative Code,Administrative Code,Incomplete,Lang/Lit Of Films
+30,1,,,28181,Georgina Kleege,,English,175,001,Administrative Code,Administrative Code,Incomplete,Lit And Disability
+30,1,,,28190,Kathleen Donegan,,English,190,001,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,1,,,28199,Marisa Knox,,English,190,004,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,1,,,28205,John Shoptaw,,English,190,006,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,1,,,28214,Eric Falci,,English,190,009,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,2,,,28217,Ian Duncan,,English,190,010,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,2,,,28220,Jasper Bernes,,English,190,011,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,1,,,28229,George Starr,,English,190,014,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,4,,,28234,Julia Bader,,English,190,015,Administrative Code,Administrative Code,Incomplete,Research Seminar
+30,1,,,28406,Dorothy Hale,,English,203,003,Administrative Code,Administrative Code,Incomplete,Graduate Readings
+30,2,,,28424,Steven Lee,,English,250,001,Administrative Code,Administrative Code,Incomplete,Research Seminars
+30,4,,,28427,Kent Puckett,,English,250,002,Administrative Code,Administrative Code,Incomplete,Research Seminars
+30,1,,,28429,Anne-Lise Francois,,English,250,003,Administrative Code,Administrative Code,Incomplete,Research Seminars
+30,1,,,28652,Elisa Tamarkin,,English,602,001,Administrative Code,Administrative Code,Incomplete,Ind Study/Doctoral
+31,16,,,28235,Samuel Otter,,English,H195A,001,Administrative Code,Administrative Code,In Progress,Honors Course
+31,18,,,28238,Katherine Snyder,,English,H195A,002,Administrative Code,Administrative Code,In Progress,Honors Course
+32,1,,,28688,Charles Blanton,,English,98,005,Administrative Code,Administrative Code,Not Reported,Directed Group Stdy
+36,10,,,27968,Joseph Lavery,,English,98,010,Administrative Code,Administrative Code,Unknown,Directed Group Stdy
+36,1,,,28004,Joseph Lavery,,English,99,002,Administrative Code,Administrative Code,Unknown,Superv Indep Study
+36,28,,,28268,Joseph Lavery,,English,198,010,Administrative Code,Administrative Code,Unknown,Directed Group Stdy
+36,12,,,28412,Oliver Arnold,,English,217,001,Administrative Code,Administrative Code,Unknown,Shakespeare
+36,1,,,28442,Charles Blanton,,English,298,005,Administrative Code,Administrative Code,Unknown,Special Studies
+36,9,,,28703,Robert Tracy,,English,24,002,Administrative Code,Administrative Code,Unknown,Freshman Seminars

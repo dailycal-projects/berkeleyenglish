@@ -1,0 +1,104 @@
+﻿Course Subject Short Nm,Course Number,Course Title Nm,Offering Type Desc,Instructional Format Nm,Offerings Cnt,Offerings Cnt Prior Yr,Offerings Cnt EOT Prior Yr,Enrollment Limit,Enrollment Limit Prior Yr,Enrollment Cnt ,Rejected Student Cnt,Rejected Student Cnt Prior Yr,Enrollment Cnt Prior Yr,Enrollment Cnt EOT Prior Yr,% Class Filled,% Class Filled Prior Yr,Waitlist Cnt,Waitlist Cnt Prior Yr,Waitlist Limit Cnt,Waitlist Limit Cnt Prior Yr,Avg Class Size,Avg Class Size Prior Yr,Crse at Capacity Cnt,Crse at Capacity Cnt Prior Yr
+English,R1A,Reading And Comp,Primary,Lecture,,7,7,,116,,,175,116,115,,100,,0,,0,,16.5714285714286,,7
+English,R1A,Reading And Comp,Primary,Lecture,8,,,132,,131,413,,,,99.2424242424243,,0,,0,,16.375,,7,
+English,R1B,Reading And Comp,Primary,Lecture,,22,22,,349,,,323,349,343,,100,,0,,0,,15.8636363636364,,22
+English,R1B,Reading And Comp,Primary,Lecture,12,,,200,,199,306,,,,99.5,,0,,0,,16.5833333333333,,11,
+English,20,Modern Brit/Am Lit,Primary,Lecture,,1,1,,24,,,9,10,10,,41.6666666666667,,0,,0,,10,,0
+English,24,Freshman Seminars,Primary,Seminar,,4,4,,41,,,127,40,40,,97.5609756097561,,0,,0,,10,,3
+English,24,Freshman Seminars,Primary,Seminar,5,,,60,,59,112,,,,98.3333333333333,,0,,0,,11.8,,4,
+English,26,Intro To Poetry,Primary,Lecture,1,,,23,,23,12,,,,100,,0,,0,,23,,1,
+English,27,Intro To Fiction,Primary,Lecture,2,,,43,,43,49,,,,100,,0,,0,,21.5,,2,
+English,37,Chicana/O Lit & Cul,Primary,Lecture,,1,1,,18,,,2,17,17,,94.4444444444444,,0,,0,,17,,0
+English,43B,Intro/Writing Verse,Primary,Lecture,,1,1,,28,,,17,7,7,,25,,0,,0,,7,,0
+English,43B,Intro/Writing Verse,Primary,Lecture,1,,,28,,10,19,,,,35.7142857142857,,0,,0,,10,,0,
+English,45A,Lit In English,Primary,Lecture,,1,1,,93,,,22,92,90,,98.9247311827957,,0,,0,,92,,0
+English,45A,Lit In English,Primary,Lecture,2,,,94,,94,9,,,,100,,0,,0,,47,,2,
+English,45B,Lit In English,Primary,Lecture,,2,2,,121,,,36,121,121,,100,,0,,0,,60.5,,2
+English,45B,Lit In English,Primary,Lecture,2,,,148,,147,26,,,,99.3243243243243,,0,,0,,73.5,,1,
+English,45C,Lit In English,Primary,Lecture,,2,2,,113,,,49,113,111,,100,,0,,0,,56.5,,2
+English,45C,Lit In English,Primary,Lecture,2,,,132,,132,42,,,,100,,1,,1,,66,,2,
+English,80K,Children'S Lit,Primary,Lecture,1,,,117,,116,59,,,,99.1452991452992,,0,,0,,116,,0,
+English,84,Sophomore Seminar,Primary,Seminar,,2,2,,35,,,76,33,33,,94.2857142857143,,0,,0,,16.5,,0
+English,84,Sophomore Seminar,Primary,Seminar,1,,,21,,21,32,,,,100,,0,,0,,21,,1,
+English,98,Directed Group Stdy,Primary,Directed Group Study,,10,10,,421,,,17,121,121,,28.7410926365796,,0,,0,,12.1,,0
+English,98,Directed Group Stdy,Primary,Directed Group Study,12,,,304,,115,0,,,,37.8289473684211,,0,,0,,9.58333333333333,,0,
+English,98BC,Directed Group Stud,Primary,Directed Group Study,3,,,52,,52,0,,,,100,,0,,0,,17.3333333333333,,3,
+English,102,Topics In Eng Lang,Primary,Lecture,,1,1,,23,,,22,23,21,,100,,0,,0,,23,,1
+English,110,Medieval Literature,Primary,Lecture,,1,1,,64,,,42,62,61,,96.875,,0,,0,,62,,0
+English,111,Chaucer,Primary,Lecture,,1,1,,24,,,19,24,24,,100,,0,,0,,24,,1
+English,112,Middle Eng Lit,Primary,Lecture,1,,,15,,15,5,,,,100,,0,,0,,15,,1,
+English,114A,English Drama,Primary,Lecture,,1,1,,34,,,28,33,33,,97.0588235294118,,0,,0,,33,,0
+English,114A,English Drama,Primary,Lecture,1,,,28,,28,9,,,,100,,0,,0,,28,,1,
+English,117B,Shakespeare,Primary,Lecture,1,,,62,,61,0,,,,98.3870967741936,,0,,0,,61,,0,
+English,117S,Shakespeare,Primary,Lecture,,2,2,,120,,,28,119,115,,99.1666666666667,,0,,0,,59.5,,1
+English,117S,Shakespeare,Primary,Lecture,1,,,105,,105,0,,,,100,,0,,0,,105,,1,
+English,118,Milton,Primary,Lecture,,1,1,,25,,,26,24,24,,96,,0,,0,,24,,0
+English,118,Milton,Primary,Lecture,1,,,61,,60,46,,,,98.3606557377049,,1,,1,,60,,0,
+English,120,Lit Later 18th Cent,Primary,Lecture,,1,1,,38,,,44,38,38,,100,,0,,0,,38,,1
+English,120,Lit Later 18th Cent,Primary,Lecture,1,,,37,,37,14,,,,100,,0,,0,,37,,1,
+English,121,Romantic Period,Primary,Lecture,,1,1,,19,,,9,19,17,,100,,0,,0,,19,,1
+English,121,Romantic Period,Primary,Lecture,1,,,29,,29,22,,,,100,,0,,0,,29,,1,
+English,122,Victorian Period,Primary,Lecture,1,,,29,,29,20,,,,100,,0,,0,,29,,1,
+English,125A,English Novel,Primary,Lecture,2,,,55,,55,57,,,,100,,0,,0,,27.5,,2,
+English,125B,English Novel,Primary,Lecture,0,,,6,,0,6,,,,0,,0,,0,,,,0,
+English,125E,Contemporary Novel,Primary,Lecture,1,,,120,,119,35,,,,99.1666666666667,,0,,0,,119,,0,
+English,127,Modern Poetry,Primary,Lecture,,1,1,,56,,,71,56,54,,100,,0,,0,,56,,1
+English,130A,Am Lit: Before 1800,Primary,Lecture,,1,1,,45,,,53,45,45,,100,,1,,1,,45,,1
+English,130A,Am Lit: Before 1800,Primary,Lecture,0,,,0,,0,1,,,,,,0,,0,,,,0,
+English,130D,Am Lit: 1900-45,Primary,Lecture,,1,1,,108,,,79,106,102,,98.1481481481482,,0,,0,,106,,0
+English,130D,Am Lit: 1900-45,Primary,Lecture,1,,,30,,30,20,,,,100,,0,,0,,30,,1,
+English,131,American Poetry,Primary,Lecture,1,,,64,,62,35,,,,96.875,,0,,0,,62,,0,
+English,133T,Topics Af Am,Primary,Lecture,1,,,21,,21,5,,,,100,,0,,0,,21,,1,
+English,C136,American Studies,Primary,Lecture,,1,1,,50,,,34,38,37,,76,,0,,0,,38,,0
+English,141,Modes Of Writing,Primary,Lecture,,1,1,,49,,,61,49,49,,100,,0,,0,,49,,1
+English,141,Modes Of Writing,Primary,Lecture,2,,,60,,60,123,,,,100,,0,,0,,30,,2,
+English,143A,Short Fiction,Primary,Lecture,,2,2,,56,,,62,32,32,,57.1428571428571,,0,,0,,16,,0
+English,143A,Short Fiction,Primary,Lecture,2,,,56,,26,55,,,,46.4285714285714,,0,,0,,13,,0,
+English,143B,Verse,Primary,Lecture,,2,2,,45,,,13,24,23,,53.3333333333333,,0,,0,,12,,0
+English,143B,Verse,Primary,Lecture,1,,,17,,12,7,,,,70.5882352941177,,0,,0,,12,,0,
+English,143D,Expos & Crit Wr,Primary,Lecture,1,,,28,,14,4,,,,50,,0,,0,,14,,0,
+English,143N,Prose Nonfiction,Primary,Lecture,,1,1,,17,,,6,12,13,,70.5882352941177,,0,,0,,12,,0
+English,143N,Prose Nonfiction,Primary,Lecture,1,,,31,,11,7,,,,35.4838709677419,,0,,14,,11,,0,
+English,161,Int To Lit Theory,Primary,Lecture,,1,1,,25,,,18,25,25,,100,,0,,0,,25,,1
+English,165,Special Topics,Primary,Seminar,,3,3,,103,,,129,103,102,,100,,0,,0,,34.3333333333333,,3
+English,165,Special Topics,Primary,Seminar,2,,,45,,45,42,,,,100,,0,,0,,22.5,,2,
+English,166,Special Topics,Primary,Lecture,,2,2,,79,,,37,78,77,,98.7341772151899,,0,,0,,39,,1
+English,166,Special Topics,Primary,Lecture,3,,,117,,114,87,,,,97.4358974358974,,0,,0,,38,,1,
+English,166AC,Spe Top Am Cultures,Primary,Lecture,,1,1,,47,,,23,47,47,,100,,0,,0,,47,,1
+English,171,Lit And Sexual Iden,Primary,Lecture,,1,1,,22,,,61,19,19,,86.3636363636364,,0,,0,,19,,0
+English,174,Lit & History,Primary,Lecture,,1,1,,18,,,12,18,18,,100,,0,,0,,18,,1
+English,174,Lit & History,Primary,Lecture,1,,,32,,32,30,,,,100,,0,,0,,32,,1,
+English,176,Lit & Pop Culture,Primary,Lecture,0,,,0,,0,9,,,,,,0,,0,,,,0,
+English,179,Lit And Linguistics,Primary,Lecture,1,,,29,,29,6,,,,100,,0,,0,,29,,1,
+English,180A,Autobiography,Primary,Lecture,,1,1,,37,,,19,37,37,,100,,0,,0,,37,,1
+English,180A,Autobiography,Primary,Lecture,1,,,45,,45,24,,,,100,,0,,0,,45,,1,
+English,180H,Short Story,Primary,Lecture,,1,1,,97,,,46,96,92,,98.9690721649485,,0,,0,,96,,0
+English,180H,Short Story,Primary,Lecture,1,,,60,,60,48,,,,100,,0,,0,,60,,1,
+English,180L,Lyric Verse,Primary,Lecture,,1,1,,54,,,34,54,54,,100,,0,,0,,54,,1
+English,180N,The Novel,Primary,Lecture,,1,1,,51,,,33,51,51,,100,,0,,0,,51,,1
+English,180N,The Novel,Primary,Lecture,1,,,18,,18,4,,,,100,,1,,1,,18,,1,
+English,180Z,Science Fiction,Primary,Lecture,1,,,58,,58,57,,,,100,,0,,0,,58,,1,
+English,190,Research Seminar,Primary,Seminar,,14,14,,228,,,144,228,226,,100,,0,,0,,16.2857142857143,,14
+English,190,Research Seminar,Primary,Seminar,10,,,192,,187,86,,,,97.3958333333333,,0,,0,,18.7,,7,
+English,H195B,Honors Course,Primary,Lecture,,2,2,,48,,,2,30,33,,62.5,,0,,0,,15,,0
+English,H195B,Honors Course,Primary,Lecture,2,,,52,,33,1,,,,63.4615384615385,,0,,0,,16.5,,0,
+English,198,Directed Group Stdy,Primary,Directed Group Study,,17,17,,609,,,93,308,306,,50.5747126436782,,0,,19,,18.1176470588235,,5
+English,198,Directed Group Stdy,Primary,Directed Group Study,10,,,360,,165,0,,,,45.8333333333333,,0,,0,,16.5,,1,
+English,198BC,Directed Group Stud,Primary,Directed Group Study,9,,,174,,174,58,,,,100,,0,,0,,19.3333333333333,,9,
+English,202,History/Lit Crit,Primary,Lecture,,1,1,,15,,,16,15,13,,100,,0,,0,,15,,1
+English,203,Graduate Readings,Primary,Lecture,,3,3,,44,,,6,30,29,,68.1818181818182,,0,,0,,10,,0
+English,203,Graduate Readings,Primary,Lecture,4,,,58,,24,7,,,,41.3793103448276,,0,,0,,6,,0,
+English,205B,Old English,Primary,Lecture,,1,1,,10,,,3,5,5,,50,,0,,0,,5,,0
+English,243A,Fiction Workshop,Primary,Lecture,1,,,28,,11,4,,,,39.2857142857143,,0,,0,,11,,0,
+English,243B,Poetry Workshop,Primary,Lecture,,1,1,,28,,,1,10,11,,35.7142857142857,,0,,0,,10,,0
+English,243B,Poetry Workshop,Primary,Lecture,1,,,28,,7,2,,,,25,,0,,0,,7,,0,
+English,246D,Grad-Pro-Seminars,Primary,Lecture,1,,,14,,10,6,,,,71.4285714285714,,0,,0,,10,,0,
+English,246E,Grad Pro-Seminars,Primary,Lecture,,1,1,,12,,,4,7,7,,58.3333333333333,,0,,0,,7,,0
+English,246G,Grad Pro-Seminars,Primary,Lecture,1,,,15,,12,5,,,,80,,0,,0,,12,,0,
+English,246I,Grad Pro-Seminars,Primary,Lecture,1,,,15,,6,5,,,,40,,0,,0,,6,,0,
+English,246J,Grad Pro-Seminars,Primary,Lecture,,1,1,,12,,,6,9,9,,75,,0,,3,,9,,0
+English,246L,Grad Pro-Seminars,Primary,Lecture,,1,1,,15,,,8,13,12,,86.6666666666667,,0,,0,,13,,0
+English,250,Research Seminars,Primary,Seminar,,2,2,,21,,,9,18,18,,85.7142857142857,,0,,0,,9,,0
+English,250,Research Seminars,Primary,Seminar,2,,,33,,16,23,,,,48.4848484848485,,0,,0,,8,,0,
+English,310,Field Studies,Primary,Field Work,,1,1,,30,,,0,2,2,,6.66666666666667,,0,,0,,2,,0
+English,310,Field Studies,Primary,Field Work,1,,,30,,2,0,,,,6.66666666666667,,0,,0,,2,,0,
