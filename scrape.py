@@ -22,9 +22,12 @@ for i in range(1, 39):
         try:
             course_name_element = c.find_next_sibling()
             course_logistics_element = course_name_element.find_next_sibling()
+
             course_number_element = course_logistics_element.find('h4')
+            section_number = course_logistics_element.find_next('strong').next_sibling
     
             book_list_header = course_logistics_element.find_next_sibling().get_text()
+
             # if book_list_header != 'Book List' and book_list_header != 'Other Readings and Media':
             # issues with inconsistent book list formatting from previous years.
             if book_list_header != 'Book List':
@@ -35,8 +38,9 @@ for i in range(1, 39):
     
             for author_book in book_list:
                 book_info_row = [] # each row includes semester, course name, number, then book and author
-                book_info_row.extend([semester, course_name_element.get_text().strip(), course_number_element.get_text().strip()]) 
-    
+                book_info_row.extend([semester, course_name_element.get_text().strip(), course_number_element.get_text().strip(), section_number.strip()]) 
+                print(book_info_row)
+
                 try: 
                     if 'Recommended' in author_book:
                         continue
@@ -47,7 +51,7 @@ for i in range(1, 39):
                     list_of_rows.append(book_info_row)
                 except:
                     # jank debugging
-                    # print("error:", author_book)
+                    print("error:", author_book)
                     continue
         except:
             continue
