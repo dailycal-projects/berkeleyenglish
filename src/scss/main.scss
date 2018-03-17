@@ -21,3 +21,8 @@
 @import 'share';
 @import 'credits';
 @import 'graphics';
+
+svg {
+	display: block;
+	margin: 0 auto;
+}
